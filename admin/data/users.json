@@ -1,0 +1,10 @@
+[
+  {
+    "id": "u_demo_001",
+    "username": "demo",
+    "password_hash": "$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llCkC8G3K6qR9kW5u6ZfK",
+    "name": "Hiếu Demo",
+    "balance": 12580000,
+    "status": "active"
+  }
+]
